@@ -1,0 +1,4 @@
+src/lib/hash.lo: \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/hash.c \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/hash.h \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/llist.h

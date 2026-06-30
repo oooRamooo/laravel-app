@@ -1,0 +1,4 @@
+src/lib/xdebug_strndup.lo: \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/xdebug_strndup.c \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/mm.h \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/xdebug_strndup.h

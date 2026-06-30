@@ -1,0 +1,2 @@
+src/lib/crc32.lo: \
+  /Users/nakamurakeisuke/Desktop/laravel-app/xdebug-3.5.3/src/lib/crc32.c
